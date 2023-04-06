@@ -1,0 +1,16 @@
+D:\С#\Пиры\Peer2\Peer2\bin\Debug\net5.0\Peer2.exe
+D:\С#\Пиры\Peer2\Peer2\bin\Debug\net5.0\Peer2.deps.json
+D:\С#\Пиры\Peer2\Peer2\bin\Debug\net5.0\Peer2.runtimeconfig.json
+D:\С#\Пиры\Peer2\Peer2\bin\Debug\net5.0\Peer2.runtimeconfig.dev.json
+D:\С#\Пиры\Peer2\Peer2\bin\Debug\net5.0\Peer2.dll
+D:\С#\Пиры\Peer2\Peer2\bin\Debug\net5.0\ref\Peer2.dll
+D:\С#\Пиры\Peer2\Peer2\bin\Debug\net5.0\Peer2.pdb
+D:\С#\Пиры\Peer2\Peer2\obj\Debug\net5.0\Peer2.csproj.AssemblyReference.cache
+D:\С#\Пиры\Peer2\Peer2\obj\Debug\net5.0\Peer2.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Пиры\Peer2\Peer2\obj\Debug\net5.0\Peer2.AssemblyInfoInputs.cache
+D:\С#\Пиры\Peer2\Peer2\obj\Debug\net5.0\Peer2.AssemblyInfo.cs
+D:\С#\Пиры\Peer2\Peer2\obj\Debug\net5.0\Peer2.csproj.CoreCompileInputs.cache
+D:\С#\Пиры\Peer2\Peer2\obj\Debug\net5.0\Peer2.dll
+D:\С#\Пиры\Peer2\Peer2\obj\Debug\net5.0\ref\Peer2.dll
+D:\С#\Пиры\Peer2\Peer2\obj\Debug\net5.0\Peer2.pdb
+D:\С#\Пиры\Peer2\Peer2\obj\Debug\net5.0\Peer2.genruntimeconfig.cache
