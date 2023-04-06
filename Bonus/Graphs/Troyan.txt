@@ -1,0 +1,45 @@
+#include <iostream>
+#include <vector>
+
+double scalar(std::vector<double>& a, std::vector<double>& b){
+    double res = 0;
+    for (size_t i = 0; i < a.size(); ++i) {
+        res += a[i]*b[i];
+    }
+    return res;
+}
+
+std::vector<std::vector<double>> Gramm() {
+    std::cout << "Vvedite kolichestvo vectorov:\n";
+    int n, m;
+    std::cin >> n;
+    std::cout << "\nVvedite dlinu vectorov:\n";
+    std::cin >> m;
+    std::vector<std::vector<double>> sto(n);
+    for (int i = 0; i < n; ++i) {
+        sto[i] = std::vector<double>(m);
+        std::cout << "\nVvedite vector " << i << ":\n";
+        for (int j = 0; j < m; ++j) {
+            double c;
+            std::cin >> c;
+            sto[i][j] = c;
+        }
+    }
+    std::vector<std::vector<double>> Gram(n, std::vector<double>(n));
+    for (int i = 0; i < n; ++i) {
+        for (int j = 0; j < n; ++j) {
+            Gram[i][j] = scalar(sto[i], sto[j]);
+        }
+    }
+    return Gram;
+}
+
+int main() {
+    std::vector<std::vector<double>> Gram = Gramm();
+    for (size_t i = 0; i < Gram.size(); i++) {
+        for (size_t j = 0; j < Gram.size(); j++) {
+            std::cout << Gram[i][j] << "   ";
+        }
+        std::cout << "\n";
+    }
+}
