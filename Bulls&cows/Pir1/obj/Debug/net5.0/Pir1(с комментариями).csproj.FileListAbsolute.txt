@@ -1,0 +1,16 @@
+D:\С#\Пиры\Pir1\Pir1\bin\Debug\net5.0\Pir1(с комментариями).exe
+D:\С#\Пиры\Pir1\Pir1\bin\Debug\net5.0\Pir1(с комментариями).deps.json
+D:\С#\Пиры\Pir1\Pir1\bin\Debug\net5.0\Pir1(с комментариями).runtimeconfig.json
+D:\С#\Пиры\Pir1\Pir1\bin\Debug\net5.0\Pir1(с комментариями).runtimeconfig.dev.json
+D:\С#\Пиры\Pir1\Pir1\bin\Debug\net5.0\Pir1(с комментариями).dll
+D:\С#\Пиры\Pir1\Pir1\bin\Debug\net5.0\ref\Pir1(с комментариями).dll
+D:\С#\Пиры\Pir1\Pir1\bin\Debug\net5.0\Pir1(с комментариями).pdb
+D:\С#\Пиры\Pir1\Pir1\obj\Debug\net5.0\Pir1(с комментариями).csproj.AssemblyReference.cache
+D:\С#\Пиры\Pir1\Pir1\obj\Debug\net5.0\Pir1(с комментариями).GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Пиры\Pir1\Pir1\obj\Debug\net5.0\Pir1(с комментариями).AssemblyInfoInputs.cache
+D:\С#\Пиры\Pir1\Pir1\obj\Debug\net5.0\Pir1(с комментариями).AssemblyInfo.cs
+D:\С#\Пиры\Pir1\Pir1\obj\Debug\net5.0\Pir1(с комментариями).csproj.CoreCompileInputs.cache
+D:\С#\Пиры\Pir1\Pir1\obj\Debug\net5.0\Pir1(с комментариями).dll
+D:\С#\Пиры\Pir1\Pir1\obj\Debug\net5.0\ref\Pir1(с комментариями).dll
+D:\С#\Пиры\Pir1\Pir1\obj\Debug\net5.0\Pir1(с комментариями).pdb
+D:\С#\Пиры\Pir1\Pir1\obj\Debug\net5.0\Pir1(с комментариями).genruntimeconfig.cache

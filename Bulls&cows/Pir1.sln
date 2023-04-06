@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pir1(с комментариями)", "Pir1\Pir1(с комментариями).csproj", "{2C2CFD93-3E71-43FA-B20E-D84245BF6953}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Чистый код без комментариев", "ConsoleApp1\Чистый код без комментариев.csproj", "{5BAF40C8-46EC-4CEF-8CEA-92440BE67A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C2CFD93-3E71-43FA-B20E-D84245BF6953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2CFD93-3E71-43FA-B20E-D84245BF6953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2CFD93-3E71-43FA-B20E-D84245BF6953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2CFD93-3E71-43FA-B20E-D84245BF6953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BAF40C8-46EC-4CEF-8CEA-92440BE67A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BAF40C8-46EC-4CEF-8CEA-92440BE67A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BAF40C8-46EC-4CEF-8CEA-92440BE67A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BAF40C8-46EC-4CEF-8CEA-92440BE67A02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E14E44F-AC80-4843-85E5-286BF80332B7}
+	EndGlobalSection
+EndGlobal
