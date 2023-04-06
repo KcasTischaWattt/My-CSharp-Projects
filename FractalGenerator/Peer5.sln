@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peer5", "Peer5\Peer5.csproj", "{47E9612D-E11F-48DE-A951-34ABB3B70EB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E9612D-E11F-48DE-A951-34ABB3B70EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E9612D-E11F-48DE-A951-34ABB3B70EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E9612D-E11F-48DE-A951-34ABB3B70EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E9612D-E11F-48DE-A951-34ABB3B70EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9FC60A9-9359-490E-922C-BF5578465D9D}
+	EndGlobalSection
+EndGlobal
