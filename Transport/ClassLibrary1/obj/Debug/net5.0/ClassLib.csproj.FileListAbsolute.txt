@@ -1,0 +1,11 @@
+D:\С#\Пиры\MiniPeer\ClassLibrary1\bin\Debug\net5.0\ClassLib.deps.json
+D:\С#\Пиры\MiniPeer\ClassLibrary1\bin\Debug\net5.0\ClassLib.dll
+D:\С#\Пиры\MiniPeer\ClassLibrary1\bin\Debug\net5.0\ref\ClassLib.dll
+D:\С#\Пиры\MiniPeer\ClassLibrary1\bin\Debug\net5.0\ClassLib.pdb
+D:\С#\Пиры\MiniPeer\ClassLibrary1\obj\Debug\net5.0\ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Пиры\MiniPeer\ClassLibrary1\obj\Debug\net5.0\ClassLib.AssemblyInfoInputs.cache
+D:\С#\Пиры\MiniPeer\ClassLibrary1\obj\Debug\net5.0\ClassLib.AssemblyInfo.cs
+D:\С#\Пиры\MiniPeer\ClassLibrary1\obj\Debug\net5.0\ClassLib.csproj.CoreCompileInputs.cache
+D:\С#\Пиры\MiniPeer\ClassLibrary1\obj\Debug\net5.0\ClassLib.dll
+D:\С#\Пиры\MiniPeer\ClassLibrary1\obj\Debug\net5.0\ref\ClassLib.dll
+D:\С#\Пиры\MiniPeer\ClassLibrary1\obj\Debug\net5.0\ClassLib.pdb

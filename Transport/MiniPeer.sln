@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniPeer", "MiniPeer\MiniPeer.csproj", "{4E682A41-EB2D-48C3-BAFF-D648B2029140}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EKRLib", "ClassLibrary1\EKRLib.csproj", "{5135E957-6C04-4288-ACA5-2DD3C1E39280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E682A41-EB2D-48C3-BAFF-D648B2029140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E682A41-EB2D-48C3-BAFF-D648B2029140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E682A41-EB2D-48C3-BAFF-D648B2029140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E682A41-EB2D-48C3-BAFF-D648B2029140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5135E957-6C04-4288-ACA5-2DD3C1E39280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5135E957-6C04-4288-ACA5-2DD3C1E39280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5135E957-6C04-4288-ACA5-2DD3C1E39280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5135E957-6C04-4288-ACA5-2DD3C1E39280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E6F133E-6263-4A07-A961-6BBB31BE3793}
+	EndGlobalSection
+EndGlobal

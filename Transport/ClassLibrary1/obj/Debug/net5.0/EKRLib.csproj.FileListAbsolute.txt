@@ -1,0 +1,12 @@
+D:\С#\Пиры\MiniPeer\ClassLibrary1\bin\Debug\net5.0\EKRLib.deps.json
+D:\С#\Пиры\MiniPeer\ClassLibrary1\bin\Debug\net5.0\EKRLib.dll
+D:\С#\Пиры\MiniPeer\ClassLibrary1\bin\Debug\net5.0\ref\EKRLib.dll
+D:\С#\Пиры\MiniPeer\ClassLibrary1\bin\Debug\net5.0\EKRLib.pdb
+D:\С#\Пиры\MiniPeer\ClassLibrary1\obj\Debug\net5.0\EKRLib.csproj.AssemblyReference.cache
+D:\С#\Пиры\MiniPeer\ClassLibrary1\obj\Debug\net5.0\EKRLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Пиры\MiniPeer\ClassLibrary1\obj\Debug\net5.0\EKRLib.AssemblyInfoInputs.cache
+D:\С#\Пиры\MiniPeer\ClassLibrary1\obj\Debug\net5.0\EKRLib.AssemblyInfo.cs
+D:\С#\Пиры\MiniPeer\ClassLibrary1\obj\Debug\net5.0\EKRLib.csproj.CoreCompileInputs.cache
+D:\С#\Пиры\MiniPeer\ClassLibrary1\obj\Debug\net5.0\EKRLib.dll
+D:\С#\Пиры\MiniPeer\ClassLibrary1\obj\Debug\net5.0\ref\EKRLib.dll
+D:\С#\Пиры\MiniPeer\ClassLibrary1\obj\Debug\net5.0\EKRLib.pdb
