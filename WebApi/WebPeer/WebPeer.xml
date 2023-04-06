@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebPeer</name>
+    </assembly>
+    <members>
+        <member name="T:WebPeer.Controllers.UsersController">
+            <summary>
+            Главный контроллер
+            </summary>
+        </member>
+        <member name="F:WebPeer.Controllers.UsersController.users">
+            <summary>
+            Список пользователей
+            </summary>
+        </member>
+        <member name="F:WebPeer.Controllers.UsersController.mails">
+            <summary>
+            Список сообщений
+            </summary>
+        </member>
+        <member name="M:WebPeer.Controllers.UsersController.GetAll">
+            <summary>
+            Посмотреть всех пользователей
+            </summary>
+            <returns>Список всех пользователей</returns>
+        </member>
+        <member name="M:WebPeer.Controllers.UsersController.GetAllWithParams(System.Int32,System.Int32)">
+            <summary>
+            Посмотреть всех пользователей с настройкой
+            </summary>
+            <param name="offset"> порядковый номер</param>
+            <param name="limit">Количество пользователей</param>
+            <returns></returns>
+        </member>
+        <member name="M:WebPeer.Controllers.UsersController.PostFromJson">
+            <summary>
+            Загрузить данные из json файла
+            </summary>
+            <returns>Данные из json файла</returns>
+        </member>
+        <member name="M:WebPeer.Controllers.UsersController.GetByEmail(System.String)">
+            <summary>
+            Найти пользователя по Email
+            </summary>
+            <param name="email">Email адрес</param>
+            <returns>Имя пользователя с указанным Email</returns>
+        </member>
+        <member name="M:WebPeer.Controllers.UsersController.GetByBoth(System.String,System.String)">
+            <summary>
+            Найти сообщения по ID отправителя и получателя
+            </summary>
+            <param name="recieverId">ID отправителя</param>
+            <param name="senderId">ID получателя</param>
+            <returns>Список сообщений</returns>
+        </member>
+        <member name="M:WebPeer.Controllers.UsersController.GetBySenderID(System.String)">
+            <summary>
+            Найти сообщения по ID отправителя
+            </summary>
+            <param name="senderId">ID отправитиля</param>
+            <returns>Список сообщений</returns>
+        </member>
+        <member name="M:WebPeer.Controllers.UsersController.GetByRecieverID(System.String)">
+            <summary>
+            Найти сообщения по ID получателя
+            </summary>
+            <param name="recieverId">ID получателя</param>
+            <returns>Список сообщений</returns>
+        </member>
+        <member name="M:WebPeer.Controllers.UsersController.Post">
+            <summary>
+            Рандомная генерация данных
+            </summary>
+        </member>
+        <member name="M:WebPeer.Controllers.UsersController.SerializeAll">
+            <summary>
+            Сериализация данных в файл
+            </summary>
+        </member>
+        <member name="M:WebPeer.Controllers.UsersController.CreateRandomEmail(System.Int32)">
+            <summary>
+            Генерация случайного Email
+            </summary>
+            <param name="length">Длина email</param>
+            <returns>Рандомный email</returns>
+        </member>
+        <member name="M:WebPeer.Controllers.UsersController.EmailIsExist(System.String)">
+            <summary>
+            Проверка на существования email
+            </summary>
+            <param name="resultEmail">email, который надо проверять его на существование</param>
+            <returns></returns>
+        </member>
+        <member name="M:WebPeer.Controllers.UsersController.CreateRandomString(System.Int32)">
+            <summary>
+            Создание рандомной строки
+            </summary>
+            <param name="length">Длина строки</param>
+            <returns>Рандомная строка</returns>
+        </member>
+        <member name="M:WebPeer.Controllers.UsersController.PostNewUser(System.String,System.String)">
+            <summary>
+            Создание нового пользователя
+            </summary>
+            <param name="email">Email адрес</param>
+            <param name="userName">Имя пользователя</param>
+            <returns>Новый пользователь</returns>
+        </member>
+        <member name="M:WebPeer.Controllers.UsersController.PostNewMessage(System.String,System.String,System.String,System.String)">
+            <summary>
+            Отправка нового сообщения
+            </summary>
+            <param name="senderId">Отправитель</param>
+            <param name="recieverId">Получатель</param>
+            <param name="subject">Тема</param>
+            <param name="message">Содержание</param>
+            <returns>Новое письмо</returns>
+        </member>
+        <member name="T:WebPeer.Models.Mail">
+            <summary>
+            Почта
+            </summary>
+        </member>
+        <member name="P:WebPeer.Models.Mail.Subject">
+            <summary>
+            Тема письма
+            </summary>
+        </member>
+        <member name="P:WebPeer.Models.Mail.Message">
+            <summary>
+            Текст письма
+            </summary>
+        </member>
+        <member name="P:WebPeer.Models.Mail.ReceiverId">
+            <summary>
+            ID получателя
+            </summary>
+        </member>
+        <member name="P:WebPeer.Models.Mail.SenderId">
+            <summary>
+            ID отправителя
+            </summary>
+        </member>
+        <member name="T:WebPeer.Models.User">
+            <summary>
+            Пользователь
+            </summary>
+        </member>
+        <member name="P:WebPeer.Models.User.Email">
+            <summary>
+            Адрес почты
+            </summary>
+        </member>
+        <member name="P:WebPeer.Models.User.UserName">
+            <summary>
+            Имя пользователя
+            </summary>
+        </member>
+        <member name="M:WebPeer.Models.User.CompareTo(System.Object)">
+            <summary>
+            Реализация интерфейса IComparable
+            </summary>
+            <param name="obj">ПОльзователь, с которым сравнивают</param>
+            <returns>результат сравнения</returns>
+        </member>
+    </members>
+</doc>
